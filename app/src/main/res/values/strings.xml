@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Layouting</string>
+    <string name="logo_app">Logo App</string>
+    <string name="activity_amzesmoro">Activity Amzesmoro</string>
+    <string name="activity_syafei">Activity Syafei</string>
+    <string name="activity_hendro">Activity Hendro</string>
+    <string name="activity_jafar">Activity Jafar</string>
+    <string name="ini_activity_mas_amzes">Ini activity Mas Amzes</string>
+    <string name="ini_activity_mas_syafei">Ini activity Mas Syafei</string>
+    <string name="ini_activity_mas_hendro">Ini activity Mas Hendro</string>
+    <string name="main_picture">Main Picture</string>
+    <string name="ini_activity_jafar">Ini activity Jafar</string>
+</resources>
