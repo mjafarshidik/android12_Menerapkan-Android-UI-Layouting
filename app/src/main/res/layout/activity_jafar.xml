@@ -5,13 +5,32 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".JafarActivity">
-    <TextView
-        android:id="@+id/textView"
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/telegram_menu" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/main_list_recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintTop_toBottomOf="@+id/include"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:listitem="@layout/main_list_item" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/ini_activity_jafar"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"
+        android:backgroundTint="@color/blue"
+        android:clickable="true"
+        android:contentDescription="@string/new_message_button"
+        android:focusable="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:srcCompat="@drawable/bxs_pencil" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
