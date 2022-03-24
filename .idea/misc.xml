@@ -3,12 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ripple_effect.xml" value="0.262" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_amzesmoro.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_hendro.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_jafar.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_splash_screen.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_syafei.xml" value="0.25677083333333334" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/main_list_item.xml" value="0.25677083333333334" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/telegram_menu.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/gradient_color.xml" value="0.2625" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/ic_baseline_app_shortcut_24.xml" value="0.279" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/ic_launcher_background.xml" value="0.279" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/transparant_background.xml" value="0.2625" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/transparant_background2.xml" value="0.279" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/activity_jafar.xml" value="0.33" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/activity_syafei.xml" value="0.33" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/item_container_canva1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/listitem_container_canva1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/telegram_menu.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.279" />
       </map>
     </option>
   </component>
