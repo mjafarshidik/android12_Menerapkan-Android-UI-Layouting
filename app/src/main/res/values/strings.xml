@@ -10,4 +10,8 @@
     <string name="ini_activity_mas_hendro">Ini activity Mas Hendro</string>
     <string name="main_picture">Main Picture</string>
     <string name="ini_activity_jafar">Ini activity Jafar</string>
+    <string name="telegram">Telegram</string>
+    <string name="contest_menu_button">Contest Menu Button</string>
+    <string name="search_button">Search Button</string>
+    <string name="new_message_button">New Message Button</string>
 </resources>
