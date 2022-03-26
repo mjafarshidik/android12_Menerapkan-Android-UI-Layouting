@@ -12,7 +12,26 @@
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_syafei.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/main_list_item.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/telegram_menu.xml" value="0.25677083333333334" />
-
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.274" />
+        <entry key="app/src/main/res/drawable/ic_transfer.xml" value="0.274" />
+        <entry key="app/src/main/res/layout/activity_amzesmoro.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_hendro.xml" value="0.3713768115942029" />
+        <entry key="app/src/main/res/layout/activity_jafar.xml" value="0.4203713213177558" />
+        <entry key="app/src/main/res/layout/activity_syafei.xml" value="0.25133056640624996" />
+        <entry key="app/src/main/res/layout/item_activity.xml" value="0.3713768115942029" />
+        <entry key="app/src/main/res/layout/item_adsense.xml" value="0.3713768115942029" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.3713768115942029" />
+        <entry key="app/src/main/res/layout/item_people.xml" value="0.30611372381359553" />
+        <entry key="app/src/main/res/layout/item_user.xml" value="1.155787185727658" />
+        <entry key="app/src/main/res/layout/layout_send_to.xml" value="0.6990291262135923" />
+        <entry key="app/src/main/res/layout/list_activities.xml" value="0.23242325705526856" />
+        <entry key="app/src/main/res/layout/listitem_canva1.xml" value="0.18135764944275581" />
+        <entry key="app/src/main/res/layout/listitem_canva2.xml" value="0.3713768115942029" />
+        <entry key="app/src/main/res/layout/listitem_canva3.xml" value="0.3713768115942029" />
+        <entry key="app/src/main/res/layout/listitem_canva4.xml" value="0.30611372381359553" />
+        <entry key="app/src/main/res/layout/main_list_item.xml" value="0.7584145342083809" />
+        <entry key="app/src/main/res/layout/new_activity.xml" value="0.30613104300815025" />
+        <entry key="app/src/main/res/layout/telegram_menu.xml" value="0.3713768115942029" />
       </map>
     </option>
   </component>
