@@ -2,15 +2,17 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_margin="8dp"
+    android:layout_margin="@dimen/dimen_10dp"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <ImageView
+    <ImageButton
         android:id="@+id/iv_user"
-        android:layout_width="48dp"
-        android:layout_height="48dp"
+        android:layout_width="@dimen/dimen_48dp"
+        android:layout_height="@dimen/dimen_48dp"
         android:src="@drawable/img_user"
-        android:contentDescription="Ini gambar user"
+        android:scaleType="fitXY"
+        android:background="@null"
+        android:contentDescription="@string/user_img_content"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
 
@@ -18,8 +20,9 @@
         android:id="@+id/tv_user"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Jaxxxe"
-        android:layout_marginTop="5dp"
+        android:text="@string/user_name"
+        android:fontFamily="@font/poppins_medium"
+        android:layout_marginTop="@dimen/dimen_5dp"
         app:layout_constraintTop_toBottomOf="@id/iv_user"
         app:layout_constraintStart_toStartOf="parent"/>
 

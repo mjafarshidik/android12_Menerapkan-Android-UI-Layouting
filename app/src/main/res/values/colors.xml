@@ -12,4 +12,9 @@
     <color name="colorBlack">#000000</color>
     <color name="colorGrey">#837E7E</color>
     <color name="colorAccent">#FFFFFF</color>
+    <color name="bg_bottom_navigation">#DADADA</color>
+    <color name="card_color">#CE6D86C3</color>
+    <color name="light_grey">#BEBEBE</color>
+    <color name="green_color">#45AF76</color>
+    <color name="red_color">#FF6767</color>
 </resources>

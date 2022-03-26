@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_15dp"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <ImageView
@@ -9,7 +10,7 @@
         android:layout_width="@dimen/dimen_48dp"
         android:layout_height="@dimen/dimen_48dp"
         android:contentDescription="@string/logo_activity"
-        android:src="@drawable/img_adsense"
+        android:src="@drawable/img_netflix"
         app:layout_constraintBottom_toBottomOf="@+id/tv_activity_date"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -19,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppins_medium"
-        android:text="@string/google_adsense"
+        android:text="@string/netflix"
         android:textColor="@color/black"
         android:textSize="@dimen/ts_16"
         android:layout_marginStart="@dimen/dimen_16dp"
@@ -31,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppins_medium"
-        android:text="@string/now"
+        android:text="@string/_09_01_am"
         android:textColor="@color/light_grey"
         android:layout_marginStart="@dimen/dimen_16dp"
         app:layout_constraintTop_toBottomOf="@id/tv_activity_name"
@@ -43,8 +44,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/dimen_10dp"
         android:fontFamily="@font/poppins_medium"
-        android:text="@string/rp500_000"
-        android:textColor="@color/green_color"
+        android:text="@string/rp76_000"
+        android:textColor="@color/red_color"
         android:textSize="@dimen/ts_16"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

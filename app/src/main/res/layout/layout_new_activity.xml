@@ -9,17 +9,25 @@
         android:id="@+id/tv_activity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Activities"
-        android:textStyle="bold"
-        android:textSize="18sp"
+        android:text="@string/new_activities"
+        android:textSize="@dimen/ts_18"
+        android:textColor="@color/black"
+        android:fontFamily="@font/poppins_medium"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
+    <Button
+        android:id="@+id/tb_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="View all"
-        android:textSize="14sp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="@string/view_all"
+        android:background="@null"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="@dimen/ts_14"
+        android:minHeight="@dimen/dimen_0dp"
+        android:minWidth="@dimen/dimen_0dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -27,15 +35,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="@dimen/dimen_10dp"
         app:layout_constraintTop_toBottomOf="@id/tv_activity">
 
-        <include
-            layout="@layout/list_activities"/>
-        <include
-            layout="@layout/list_activities"/>
-        <include
-            layout="@layout/list_activities"/>
         <include
             layout="@layout/list_activities"/>
 

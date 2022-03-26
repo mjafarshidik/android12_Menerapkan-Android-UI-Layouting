@@ -34,5 +34,20 @@
 
     <dimen name="bottom_sheet_height">70dp</dimen>
     <dimen name="btn_bottom_sheet_width">50dp</dimen>
+    <dimen name="dimen_30dp">30dp</dimen>
+    <dimen name="ts_24">24sp</dimen>
+    <dimen name="dimen_15dp">15dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_0dp">0dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="ts_20">20sp</dimen>
+    <dimen name="ts_14">14sp</dimen>
+    <dimen name="ts_18">18sp</dimen>
+    <dimen name="dimen_80dp">80dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_48dp">48dp</dimen>
+    <dimen name="ts_16">16sp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_5dp">5dp</dimen>
 
 </resources>
