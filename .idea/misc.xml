@@ -3,24 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/et_background.xml" value="0.14" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1765" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/login_btn_background.xml" value="0.14" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/drawable/transparant_background.xml" value="0.1765" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/activity_amzesmoro.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/activity_hendro.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/activity_jafar.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/activity_syafei.xml" value="0.2" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/listitem_canva1.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/listitem_canva2.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/listitem_canva3.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/listitem_canva4.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/listitem_container_canva1.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/listitem_container_canva2.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/main_list_item.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/layout/telegram_menu.xml" value="0.20416666666666666" />
-        <entry key="..\:/AndroidStudioProjects/android12_Menerapkan-Android-UI-Layouting/app/src/main/res/menu/menu_canva.xml" value="0.20416666666666666" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/et_background.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_baseline_app_shortcut_24.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_baseline_attractions_24.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_notification_solid.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_profile_solid.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_statistic_solid.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ic_transfer.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/login_btn_background.xml" value="0.12" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/ripple_effect.xml" value="0.262" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/rounded_button.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/state_button_navigation.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/transparant_background.xml" value="0.12" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/drawable/transparant_background2.xml" value="0.12" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_amzesmoro.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_hendro.xml" value="0.25677083333333334" />
         <entry key="..\:/Binar/Android Bootcamp/Task Binar/Layouting/app/src/main/res/layout/activity_jafar.xml" value="0.25677083333333334" />
