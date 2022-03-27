@@ -16,6 +16,7 @@
             android:name=".HendroActivity"
             android:exported="false" />
         <activity
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:name=".SyafeiActivity"
             android:exported="false" />
         <activity

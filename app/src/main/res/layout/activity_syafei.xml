@@ -4,15 +4,115 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/gradient_backgroudn"
     tools:context=".SyafeiActivity">
-    <TextView
-        android:id="@+id/textView"
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_can1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/ini_activity_mas_syafei"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.01" />
+
+    <EditText
+        android:id="@+id/et_search_canva"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_margin="3dp"
+        android:background="@drawable/transparant_background"
+        android:drawableStart="@drawable/ic_baseline_search_24"
+        android:drawableEnd="@drawable/ic_baseline_camera_alt_24"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:hint="search"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline_can1" />
+
+    <include
+        android:id="@+id/include_can1"
+        layout="@layout/listitem_canva1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_search_canva" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_can2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.28" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_can3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.01" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/transparant_background2"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include_can1" />
+
+    <include
+        android:id="@+id/include_can2"
+        layout="@layout/listitem_canva2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/guideline_can2" />
+
+    <include
+        android:id="@+id/include_can3"
+        layout="@layout/listitem_canva3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include_can2" />
+
+    <include
+        android:id="@+id/include_can4"
+        layout="@layout/listitem_canva4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include_can3" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="15dp"
+        android:clickable="true"
+        android:contentDescription="icon_material"
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="@+id/include_can4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include_can3"
+        app:srcCompat="@drawable/ic_baseline_add_24" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#FFFFFF"
+        app:itemIconTint="#299BE8"
+        app:itemTextColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:menu="@menu/menu_canva"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
